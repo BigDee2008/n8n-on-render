@@ -17,3 +17,7 @@ docker/**/Dockerfile
 .vscode
 cypress
 test-workflows
+pnpm-lock.yaml
+Dockerfile
+.dockerignore
+.env
